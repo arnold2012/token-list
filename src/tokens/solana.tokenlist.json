@@ -75,6 +75,18 @@
       }
     },
     {
+    "chainId": 101,
+      "address": "UQTAPX7rtTjgcH3SNubjf67gwijnkMw6ekRDdp9TkjD",
+      "symbol": "Σ",
+      "name": "coinMeta",
+      "decimals":0,
+      "logoURI": "",
+      "tags": [],
+      "extensions": {
+       "telegram": "https://t.me/arnoldOficial"
+      }
+    }, 
+    {
       "chainId": 101,
       "address": "BqRtfrNpvRAW3KW319hvhPoTu76wKU2LTdXJyG9CyDze",
       "symbol": "ECHO",
