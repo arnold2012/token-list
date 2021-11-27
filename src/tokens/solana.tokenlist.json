@@ -81,9 +81,11 @@
       "name": "coinMeta",
       "decimals":0,
       "logoURI": "",
-      "tags": [],
+      "tags": [
+      "utility-token" ],
       "extensions": {
        "telegram": "https://t.me/arnoldOficial"
+        
       }
     }, 
     {
